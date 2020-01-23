@@ -2,7 +2,7 @@
 
 (Game copyright by Marc and Inna Trius, cc-by-sa)
 
-##Board: 
+## Board: 
 
 The game path goes from the figure of Jacob sleeping on the ground, to the heavens. In some places there are intersections, players may choose where to go.
 
@@ -13,7 +13,7 @@ The game path goes from the figure of Jacob sleeping on the ground, to the heave
 
 ## Dice:
 
-*One d10 with Gematria (Hebrew letters) numbers. template
+* One d10 with Gematria (Hebrew letters) numbers. template
 
 ## Piece ideas:
 
