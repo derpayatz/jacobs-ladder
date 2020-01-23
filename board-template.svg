@@ -1,0 +1,2512 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="36in"
+   height="48in"
+   viewBox="0 0 914.4 1219.2"
+   version="1.1"
+   id="svg4605"
+   sodipodi:docname="board-template4.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   inkscape:export-filename="/home/marc/gits/jacobs-ladder/board-template.png"
+   inkscape:export-xdpi="72"
+   inkscape:export-ydpi="72">
+  <defs
+     id="defs4599">
+    <marker
+       inkscape:stockid="DiamondM"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="marker15677"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path15675"
+         d="M 0,-7.0710768 L -7.0710894,0 L 0,7.0710589 L 7.0710462,0 L 0,-7.0710768 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         transform="scale(0.4)" />
+    </marker>
+    <marker
+       inkscape:stockid="DiamondM"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="marker15409"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path15407"
+         d="M 0,-7.0710768 L -7.0710894,0 L 0,7.0710589 L 7.0710462,0 L 0,-7.0710768 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         transform="scale(0.4)" />
+    </marker>
+    <marker
+       inkscape:stockid="DiamondM"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="marker15147"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path15145"
+         d="M 0,-7.0710768 L -7.0710894,0 L 0,7.0710589 L 7.0710462,0 L 0,-7.0710768 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         transform="scale(0.4)" />
+    </marker>
+    <marker
+       inkscape:stockid="DiamondM"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="marker14891"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path14889"
+         d="M 0,-7.0710768 L -7.0710894,0 L 0,7.0710589 L 7.0710462,0 L 0,-7.0710768 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         transform="scale(0.4)" />
+    </marker>
+    <marker
+       inkscape:stockid="DiamondM"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="marker14641"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path14639"
+         d="M 0,-7.0710768 L -7.0710894,0 L 0,7.0710589 L 7.0710462,0 L 0,-7.0710768 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         transform="scale(0.4)" />
+    </marker>
+    <marker
+       inkscape:stockid="DiamondM"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="marker14397"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path14395"
+         d="M 0,-7.0710768 L -7.0710894,0 L 0,7.0710589 L 7.0710462,0 L 0,-7.0710768 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         transform="scale(0.4)" />
+    </marker>
+    <marker
+       inkscape:stockid="DiamondM"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="marker14159"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path14157"
+         d="M 0,-7.0710768 L -7.0710894,0 L 0,7.0710589 L 7.0710462,0 L 0,-7.0710768 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         transform="scale(0.4)" />
+    </marker>
+    <marker
+       inkscape:stockid="DiamondM"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="marker13927"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path13925"
+         d="M 0,-7.0710768 L -7.0710894,0 L 0,7.0710589 L 7.0710462,0 L 0,-7.0710768 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         transform="scale(0.4)" />
+    </marker>
+    <marker
+       inkscape:stockid="DiamondM"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="marker13701"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path13699"
+         d="M 0,-7.0710768 L -7.0710894,0 L 0,7.0710589 L 7.0710462,0 L 0,-7.0710768 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         transform="scale(0.4)" />
+    </marker>
+    <marker
+       inkscape:stockid="DiamondM"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="marker13241"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path13239"
+         d="M 0,-7.0710768 L -7.0710894,0 L 0,7.0710589 L 7.0710462,0 L 0,-7.0710768 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         transform="scale(0.4)" />
+    </marker>
+    <marker
+       inkscape:stockid="DiamondM"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="marker13021"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path13019"
+         d="M 0,-7.0710768 L -7.0710894,0 L 0,7.0710589 L 7.0710462,0 L 0,-7.0710768 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         transform="scale(0.4)" />
+    </marker>
+    <marker
+       inkscape:stockid="DiamondM"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="marker12807"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path12805"
+         d="M 0,-7.0710768 L -7.0710894,0 L 0,7.0710589 L 7.0710462,0 L 0,-7.0710768 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         transform="scale(0.4)" />
+    </marker>
+    <marker
+       inkscape:stockid="DiamondM"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="marker12599"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path12597"
+         d="M 0,-7.0710768 L -7.0710894,0 L 0,7.0710589 L 7.0710462,0 L 0,-7.0710768 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         transform="scale(0.4)" />
+    </marker>
+    <marker
+       inkscape:stockid="DiamondM"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="marker12397"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path12395"
+         d="M 0,-7.0710768 L -7.0710894,0 L 0,7.0710589 L 7.0710462,0 L 0,-7.0710768 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         transform="scale(0.4)" />
+    </marker>
+    <marker
+       inkscape:stockid="DiamondM"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="marker12201"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path12199"
+         d="M 0,-7.0710768 L -7.0710894,0 L 0,7.0710589 L 7.0710462,0 L 0,-7.0710768 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         transform="scale(0.4)" />
+    </marker>
+    <marker
+       inkscape:stockid="DiamondM"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="marker12011"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path12009"
+         d="M 0,-7.0710768 L -7.0710894,0 L 0,7.0710589 L 7.0710462,0 L 0,-7.0710768 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         transform="scale(0.4)" />
+    </marker>
+    <marker
+       inkscape:stockid="DiamondM"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="marker12001"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path11999"
+         d="M 0,-7.0710768 L -7.0710894,0 L 0,7.0710589 L 7.0710462,0 L 0,-7.0710768 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         transform="scale(0.4)" />
+    </marker>
+    <marker
+       inkscape:stockid="DiamondM"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="marker11817"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path11815"
+         d="M 0,-7.0710768 L -7.0710894,0 L 0,7.0710589 L 7.0710462,0 L 0,-7.0710768 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         transform="scale(0.4)" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker11615"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="DiamondM">
+      <path
+         transform="scale(0.4)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         d="M 0,-7.0710768 L -7.0710894,0 L 0,7.0710589 L 7.0710462,0 L 0,-7.0710768 z "
+         id="path11613" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker11277"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="DiamondM"
+       inkscape:collect="always">
+      <path
+         transform="scale(0.4)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         d="M 0,-7.0710768 L -7.0710894,0 L 0,7.0710589 L 7.0710462,0 L 0,-7.0710768 z "
+         id="path11275" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker11117"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="DiamondM">
+      <path
+         transform="scale(0.4)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         d="M 0,-7.0710768 L -7.0710894,0 L 0,7.0710589 L 7.0710462,0 L 0,-7.0710768 z "
+         id="path11115" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker10963"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="DiamondM">
+      <path
+         transform="scale(0.4)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         d="M 0,-7.0710768 L -7.0710894,0 L 0,7.0710589 L 7.0710462,0 L 0,-7.0710768 z "
+         id="path10961" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker10815"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="DiamondM">
+      <path
+         transform="scale(0.4)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         d="M 0,-7.0710768 L -7.0710894,0 L 0,7.0710589 L 7.0710462,0 L 0,-7.0710768 z "
+         id="path10813" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker10673"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="DiamondM">
+      <path
+         transform="scale(0.4)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         d="M 0,-7.0710768 L -7.0710894,0 L 0,7.0710589 L 7.0710462,0 L 0,-7.0710768 z "
+         id="path10671" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker10537"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="DiamondM">
+      <path
+         transform="scale(0.4)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         d="M 0,-7.0710768 L -7.0710894,0 L 0,7.0710589 L 7.0710462,0 L 0,-7.0710768 z "
+         id="path10535" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker10407"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="DiamondM">
+      <path
+         transform="scale(0.4)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         d="M 0,-7.0710768 L -7.0710894,0 L 0,7.0710589 L 7.0710462,0 L 0,-7.0710768 z "
+         id="path10405" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="marker9999"
+       style="overflow:visible;"
+       inkscape:isstock="true">
+      <path
+         id="path9997"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         transform="scale(0.8) rotate(180) translate(12.5,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="marker9881"
+       style="overflow:visible;"
+       inkscape:isstock="true">
+      <path
+         id="path9879"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         transform="scale(0.8) rotate(180) translate(12.5,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="marker9775"
+       style="overflow:visible;"
+       inkscape:isstock="true">
+      <path
+         id="path9773"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         transform="scale(0.8) rotate(180) translate(12.5,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="marker9675"
+       style="overflow:visible;"
+       inkscape:isstock="true">
+      <path
+         id="path9673"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         transform="scale(0.8) rotate(180) translate(12.5,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="marker9581"
+       style="overflow:visible;"
+       inkscape:isstock="true">
+      <path
+         id="path9579"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         transform="scale(0.8) rotate(180) translate(12.5,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="marker9493"
+       style="overflow:visible;"
+       inkscape:isstock="true">
+      <path
+         id="path9491"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         transform="scale(0.8) rotate(180) translate(12.5,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="marker9411"
+       style="overflow:visible;"
+       inkscape:isstock="true">
+      <path
+         id="path9409"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         transform="scale(0.8) rotate(180) translate(12.5,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="marker9401"
+       style="overflow:visible;"
+       inkscape:isstock="true">
+      <path
+         id="path9399"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         transform="scale(0.8) rotate(180) translate(12.5,0)" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker9301"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lstart">
+      <path
+         transform="scale(0.8) translate(12.5,0)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path9299" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker9231"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lstart">
+      <path
+         transform="scale(0.8) translate(12.5,0)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path9229" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker9167"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lstart">
+      <path
+         transform="scale(0.8) translate(12.5,0)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path9165" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker9109"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lstart">
+      <path
+         transform="scale(0.8) translate(12.5,0)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path9107" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker9057"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lstart">
+      <path
+         transform="scale(0.8) translate(12.5,0)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path9055" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker9011"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lstart">
+      <path
+         transform="scale(0.8) translate(12.5,0)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path9009" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker8971"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lstart">
+      <path
+         transform="scale(0.8) translate(12.5,0)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path8969" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lstart"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Lstart"
+       style="overflow:visible"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         id="path6135"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         transform="scale(0.8) translate(12.5,0)" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible;"
+       id="marker8881"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:collect="always">
+      <path
+         transform="scale(0.8) rotate(180) translate(12.5,0)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path8879" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible;"
+       id="marker8859"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend">
+      <path
+         transform="scale(0.8) rotate(180) translate(12.5,0)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path8857" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.125"
+     inkscape:cx="1928.5161"
+     inkscape:cy="2511.0963"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     units="in"
+     inkscape:window-width="1366"
+     inkscape:window-height="713"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:snap-object-midpoints="true"
+     inkscape:snap-global="false"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-paths="true"
+     inkscape:bbox-nodes="true">
+    <inkscape:grid
+       units="in"
+       empspacing="9"
+       gridanglex="45"
+       gridanglez="45"
+       spacingy="22.86"
+       originx="45.72"
+       originy="45.72"
+       type="axonomgrid"
+       id="grid5152"
+       enabled="false" />
+    <inkscape:grid
+       type="xygrid"
+       id="grid5729"
+       units="in"
+       spacingx="25.4"
+       spacingy="16.933418"
+       empspacing="9"
+       originx="114.3"
+       originy="57.15" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata4602">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,922.2)">
+    <circle
+       style="opacity:1;fill:#000000;fill-opacity:0.39215686;stroke:#000000;stroke-width:0.26499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path5741"
+       cx="800.09998"
+       cy="138.2495"
+       r="11.43" />
+    <circle
+       r="11.43"
+       cy="121.31605"
+       cx="774.70001"
+       id="circle5869"
+       style="opacity:1;fill:#000000;fill-opacity:0.39215686;stroke:#000000;stroke-width:0.26499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <circle
+       style="opacity:1;fill:#000000;fill-opacity:0.39215686;stroke:#000000;stroke-width:0.26499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="circle5871"
+       cx="749.29999"
+       cy="104.38264"
+       r="11.43" />
+    <circle
+       r="11.43"
+       cy="87.449211"
+       cx="723.89996"
+       id="circle5873"
+       style="opacity:1;fill:#000000;fill-opacity:0.39215686;stroke:#000000;stroke-width:0.26499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <circle
+       style="opacity:1;fill:#000000;fill-opacity:0.39215686;stroke:#000000;stroke-width:0.26499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="circle5875"
+       cx="698.5"
+       cy="70.515808"
+       r="11.43" />
+    <circle
+       r="11.43"
+       cy="53.582382"
+       cx="673.09998"
+       id="circle5877"
+       style="opacity:1;fill:#000000;fill-opacity:0.39215686;stroke:#000000;stroke-width:0.26499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <circle
+       r="11.43"
+       cy="36.648968"
+       cx="647.70001"
+       id="circle5879"
+       style="opacity:1;fill:#000000;fill-opacity:0.39215686;stroke:#000000;stroke-width:0.26499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <circle
+       style="opacity:1;fill:#000000;fill-opacity:0.39215686;stroke:#000000;stroke-width:0.26499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="circle5881"
+       cx="622.30005"
+       cy="19.715567"
+       r="11.43" />
+    <circle
+       r="11.43"
+       cy="2.7821248"
+       cx="596.90002"
+       id="circle5883"
+       style="opacity:1;fill:#000000;fill-opacity:0.39215686;stroke:#000000;stroke-width:0.26499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <circle
+       r="11.43"
+       cy="-14.151277"
+       cx="571.5"
+       id="circle5885"
+       style="opacity:1;fill:#000000;fill-opacity:0.39215686;stroke:#000000;stroke-width:0.26499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <circle
+       style="opacity:1;fill:#000000;fill-opacity:0.39215686;stroke:#000000;stroke-width:0.26499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="circle5887"
+       cx="546.10004"
+       cy="-31.084686"
+       r="11.43" />
+    <circle
+       r="11.43"
+       cy="-48.018116"
+       cx="520.70001"
+       id="circle5889"
+       style="opacity:1;fill:#000000;fill-opacity:0.39215686;stroke:#000000;stroke-width:0.26499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <circle
+       style="opacity:1;fill:#000000;fill-opacity:0.39215686;stroke:#000000;stroke-width:0.26499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="circle5891"
+       cx="495.30017"
+       cy="-64.951553"
+       r="11.43" />
+    <circle
+       r="11.43"
+       cy="-81.884956"
+       cx="469.90021"
+       id="circle5893"
+       style="opacity:1;fill:#000000;fill-opacity:0.39215686;stroke:#000000;stroke-width:0.26499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <circle
+       style="opacity:1;fill:#000000;fill-opacity:0.39215686;stroke:#000000;stroke-width:0.26499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="circle5895"
+       cx="444.50018"
+       cy="-98.818382"
+       r="11.43" />
+    <circle
+       style="opacity:1;fill:#000000;fill-opacity:0.39215686;stroke:#000000;stroke-width:0.26499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="circle5897"
+       cx="419.10022"
+       cy="-115.7518"
+       r="11.43" />
+    <circle
+       r="11.43"
+       cy="-132.6852"
+       cx="393.70026"
+       id="circle5899"
+       style="opacity:1;fill:#000000;fill-opacity:0.39215686;stroke:#000000;stroke-width:0.26499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <circle
+       style="opacity:1;fill:#000000;fill-opacity:0.39215686;stroke:#000000;stroke-width:0.26499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="circle5901"
+       cx="368.30023"
+       cy="-149.61865"
+       r="11.43" />
+    <circle
+       style="opacity:1;fill:#000000;fill-opacity:0.39215686;stroke:#000000;stroke-width:0.26499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="circle5903"
+       cx="342.90015"
+       cy="-166.55206"
+       r="11.43" />
+    <circle
+       r="11.43"
+       cy="-183.48547"
+       cx="317.50018"
+       id="circle5905"
+       style="opacity:1;fill:#000000;fill-opacity:0.39215686;stroke:#000000;stroke-width:0.26499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <circle
+       style="opacity:1;fill:#000000;fill-opacity:0.39215686;stroke:#000000;stroke-width:0.26499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="circle5907"
+       cx="292.10016"
+       cy="-200.41891"
+       r="11.43" />
+    <circle
+       r="11.43"
+       cy="-217.35233"
+       cx="266.70013"
+       id="circle5909"
+       style="opacity:1;fill:#000000;fill-opacity:0.39215686;stroke:#000000;stroke-width:0.26499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <circle
+       style="opacity:1;fill:#000000;fill-opacity:0.39215686;stroke:#000000;stroke-width:0.26499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="circle5911"
+       cx="241.30017"
+       cy="-234.28574"
+       r="11.43" />
+    <circle
+       r="11.43"
+       cy="-251.21916"
+       cx="215.90015"
+       id="circle5913"
+       style="opacity:1;fill:#000000;fill-opacity:0.39215686;stroke:#000000;stroke-width:0.26499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <circle
+       r="11.43"
+       cy="-268.15253"
+       cx="190.50018"
+       id="circle5915"
+       style="opacity:1;fill:#000000;fill-opacity:0.39215686;stroke:#000000;stroke-width:0.26499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <circle
+       style="opacity:1;fill:#000000;fill-opacity:0.39215686;stroke:#000000;stroke-width:0.26499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="circle5917"
+       cx="165.10022"
+       cy="-285.08594"
+       r="11.43" />
+    <circle
+       r="11.43"
+       cy="-302.01938"
+       cx="139.7002"
+       id="circle5919"
+       style="opacity:1;fill:#000000;fill-opacity:0.39215686;stroke:#000000;stroke-width:0.26499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <circle
+       r="11.43"
+       cy="-318.95279"
+       cx="-114.30013"
+       id="circle5921"
+       style="opacity:1;fill:#000000;fill-opacity:0.39215686;stroke:#000000;stroke-width:0.26499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       transform="scale(-1,1)" />
+    <circle
+       style="opacity:1;fill:#000000;fill-opacity:0.39215686;stroke:#000000;stroke-width:0.26499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="circle5923"
+       cx="-139.70015"
+       cy="-335.8862"
+       r="11.43"
+       transform="scale(-1,1)" />
+    <circle
+       r="11.43"
+       cy="-352.81961"
+       cx="-165.10017"
+       id="circle5925"
+       style="opacity:1;fill:#000000;fill-opacity:0.39215686;stroke:#000000;stroke-width:0.26499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       transform="scale(-1,1)" />
+    <circle
+       style="opacity:1;fill:#000000;fill-opacity:0.39215686;stroke:#000000;stroke-width:0.26499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="circle5927"
+       cx="-190.5002"
+       cy="-369.75305"
+       r="11.43"
+       transform="scale(-1,1)" />
+    <circle
+       r="11.43"
+       cy="-386.68646"
+       cx="-215.90016"
+       id="circle5929"
+       style="opacity:1;fill:#000000;fill-opacity:0.39215686;stroke:#000000;stroke-width:0.26499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       transform="scale(-1,1)" />
+    <circle
+       style="opacity:1;fill:#000000;fill-opacity:0.39215686;stroke:#000000;stroke-width:0.26499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="circle5931"
+       cx="-241.30019"
+       cy="-403.61987"
+       r="11.43"
+       transform="scale(-1,1)" />
+    <circle
+       style="opacity:1;fill:#000000;fill-opacity:0.39215686;stroke:#000000;stroke-width:0.26499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="circle5933"
+       cx="-266.70013"
+       cy="-420.55328"
+       r="11.43"
+       transform="scale(-1,1)" />
+    <circle
+       r="11.43"
+       cy="-437.48669"
+       cx="-292.1001"
+       id="circle5935"
+       style="opacity:1;fill:#000000;fill-opacity:0.39215686;stroke:#000000;stroke-width:0.26499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       transform="scale(-1,1)" />
+    <circle
+       style="opacity:1;fill:#000000;fill-opacity:0.39215686;stroke:#000000;stroke-width:0.26499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="circle5937"
+       cx="-317.50012"
+       cy="-454.42017"
+       r="11.43"
+       transform="scale(-1,1)" />
+    <circle
+       style="opacity:1;fill:#000000;fill-opacity:0.39215686;stroke:#000000;stroke-width:0.26499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="circle5939"
+       cx="-342.90015"
+       cy="-471.35361"
+       r="11.43"
+       transform="scale(-1,1)" />
+    <circle
+       r="11.43"
+       cy="-488.28702"
+       cx="-368.30011"
+       id="circle5941"
+       style="opacity:1;fill:#000000;fill-opacity:0.39215686;stroke:#000000;stroke-width:0.26499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       transform="scale(-1,1)" />
+    <circle
+       style="opacity:1;fill:#000000;fill-opacity:0.39215686;stroke:#000000;stroke-width:0.26499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="circle5943"
+       cx="-393.70013"
+       cy="-505.2204"
+       r="11.43"
+       transform="scale(-1,1)" />
+    <circle
+       r="11.43"
+       cy="-522.15381"
+       cx="-419.10016"
+       id="circle5945"
+       style="opacity:1;fill:#000000;fill-opacity:0.39215686;stroke:#000000;stroke-width:0.26499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       transform="scale(-1,1)" />
+    <circle
+       style="opacity:1;fill:#000000;fill-opacity:0.39215686;stroke:#000000;stroke-width:0.26499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="circle5947"
+       cx="-444.50012"
+       cy="-539.08722"
+       r="11.43"
+       transform="scale(-1,1)" />
+    <circle
+       r="11.43"
+       cy="-556.02063"
+       cx="-469.90015"
+       id="circle5949"
+       style="opacity:1;fill:#000000;fill-opacity:0.39215686;stroke:#000000;stroke-width:0.26499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       transform="scale(-1,1)" />
+    <circle
+       r="11.43"
+       cy="-572.95404"
+       cx="-495.30011"
+       id="circle5951"
+       style="opacity:1;fill:#000000;fill-opacity:0.39215686;stroke:#000000;stroke-width:0.26499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       transform="scale(-1,1)" />
+    <circle
+       style="opacity:1;fill:#000000;fill-opacity:0.39215686;stroke:#000000;stroke-width:0.26499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="circle5953"
+       cx="-520.69989"
+       cy="-589.88745"
+       r="11.43"
+       transform="scale(-1,1)" />
+    <circle
+       r="11.43"
+       cy="-606.82092"
+       cx="-546.09991"
+       id="circle5955"
+       style="opacity:1;fill:#000000;fill-opacity:0.39215686;stroke:#000000;stroke-width:0.26499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       transform="scale(-1,1)" />
+    <circle
+       r="11.43"
+       cy="-623.75433"
+       cx="-571.5"
+       id="circle5957"
+       style="opacity:1;fill:#000000;fill-opacity:0.39215686;stroke:#000000;stroke-width:0.26499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       transform="scale(-1,1)" />
+    <circle
+       style="opacity:1;fill:#000000;fill-opacity:0.39215686;stroke:#000000;stroke-width:0.26499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="circle5959"
+       cx="-596.89996"
+       cy="-640.68774"
+       r="11.43"
+       transform="scale(-1,1)" />
+    <circle
+       r="11.43"
+       cy="-657.62115"
+       cx="-622.29999"
+       id="circle5961"
+       style="opacity:1;fill:#000000;fill-opacity:0.39215686;stroke:#000000;stroke-width:0.26499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       transform="scale(-1,1)" />
+    <circle
+       style="opacity:1;fill:#000000;fill-opacity:0.39215686;stroke:#000000;stroke-width:0.26499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="circle5963"
+       cx="-647.70001"
+       cy="-674.55457"
+       r="11.43"
+       transform="scale(-1,1)" />
+    <circle
+       r="11.43"
+       cy="-691.48798"
+       cx="-673.09998"
+       id="circle5965"
+       style="opacity:1;fill:#000000;fill-opacity:0.39215686;stroke:#000000;stroke-width:0.26499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       transform="scale(-1,1)" />
+    <circle
+       style="opacity:1;fill:#000000;fill-opacity:0.39215686;stroke:#000000;stroke-width:0.26499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="circle5967"
+       cx="-698.5"
+       cy="-708.42139"
+       r="11.43"
+       transform="scale(-1,1)" />
+    <circle
+       style="opacity:1;fill:#000000;fill-opacity:0.39215686;stroke:#000000;stroke-width:0.26499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="circle5969"
+       cx="-723.89996"
+       cy="-725.3548"
+       r="11.43"
+       transform="scale(-1,1)" />
+    <circle
+       r="11.43"
+       cy="-742.28821"
+       cx="-749.29993"
+       id="circle5971"
+       style="opacity:1;fill:#000000;fill-opacity:0.39215686;stroke:#000000;stroke-width:0.26499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       transform="scale(-1,1)" />
+    <circle
+       style="opacity:1;fill:#000000;fill-opacity:0.39215686;stroke:#000000;stroke-width:0.26499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="circle5973"
+       cx="-774.69995"
+       cy="-759.22168"
+       r="11.43"
+       transform="scale(-1,1)" />
+    <circle
+       style="opacity:1;fill:#000000;fill-opacity:0.39215686;stroke:#000000;stroke-width:0.26499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="circle5987"
+       cx="-520.70001"
+       cy="-81.884956"
+       r="11.43"
+       transform="scale(-1,1)" />
+    <circle
+       r="11.43"
+       cy="-98.818382"
+       cx="-546.10004"
+       id="circle5989"
+       style="opacity:1;fill:#000000;fill-opacity:0.39215686;stroke:#000000;stroke-width:0.26499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       transform="scale(-1,1)" />
+    <circle
+       r="11.43"
+       cy="-115.7518"
+       cx="-571.5"
+       id="circle5991"
+       style="opacity:1;fill:#000000;fill-opacity:0.39215686;stroke:#000000;stroke-width:0.26499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       transform="scale(-1,1)" />
+    <circle
+       style="opacity:1;fill:#000000;fill-opacity:0.39215686;stroke:#000000;stroke-width:0.26499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="circle5993"
+       cx="-596.89996"
+       cy="-132.68521"
+       r="11.43"
+       transform="scale(-1,1)" />
+    <circle
+       r="11.43"
+       cy="-149.61867"
+       cx="-622.29999"
+       id="circle5995"
+       style="opacity:1;fill:#000000;fill-opacity:0.39215686;stroke:#000000;stroke-width:0.26499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       transform="scale(-1,1)" />
+    <circle
+       r="11.43"
+       cy="-166.55208"
+       cx="-647.70007"
+       id="circle5997"
+       style="opacity:1;fill:#000000;fill-opacity:0.39215686;stroke:#000000;stroke-width:0.26499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       transform="scale(-1,1)" />
+    <circle
+       style="opacity:1;fill:#000000;fill-opacity:0.39215686;stroke:#000000;stroke-width:0.26499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="circle5999"
+       cx="-673.09998"
+       cy="-183.48547"
+       r="11.43"
+       transform="scale(-1,1)" />
+    <circle
+       r="11.43"
+       cy="-200.41893"
+       cx="-698.50006"
+       id="circle6001"
+       style="opacity:1;fill:#000000;fill-opacity:0.39215686;stroke:#000000;stroke-width:0.26499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       transform="scale(-1,1)" />
+    <circle
+       style="opacity:1;fill:#000000;fill-opacity:0.39215686;stroke:#000000;stroke-width:0.26499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="circle6003"
+       cx="-723.90009"
+       cy="-217.35233"
+       r="11.43"
+       transform="scale(-1,1)" />
+    <circle
+       r="11.43"
+       cy="-234.28574"
+       cx="-749.30005"
+       id="circle6005"
+       style="opacity:1;fill:#000000;fill-opacity:0.39215686;stroke:#000000;stroke-width:0.26499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       transform="scale(-1,1)" />
+    <circle
+       style="opacity:1;fill:#000000;fill-opacity:0.39215686;stroke:#000000;stroke-width:0.26499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="circle6007"
+       cx="-774.70007"
+       cy="-251.21916"
+       r="11.43"
+       transform="scale(-1,1)" />
+    <circle
+       style="opacity:1;fill:#000000;fill-opacity:0.39215686;stroke:#000000;stroke-width:0.26499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="circle6009"
+       cx="-800.10004"
+       cy="-268.15253"
+       r="11.43"
+       transform="scale(-1,1)" />
+    <circle
+       r="11.43"
+       cy="-285.08594"
+       cx="774.70001"
+       id="circle6017"
+       style="opacity:1;fill:#000000;fill-opacity:0.39215686;stroke:#000000;stroke-width:0.26499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <circle
+       style="opacity:1;fill:#000000;fill-opacity:0.39215686;stroke:#000000;stroke-width:0.26499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="circle6019"
+       cx="749.29999"
+       cy="-302.01935"
+       r="11.43" />
+    <circle
+       r="11.43"
+       cy="-318.95279"
+       cx="723.89996"
+       id="circle6021"
+       style="opacity:1;fill:#000000;fill-opacity:0.39215686;stroke:#000000;stroke-width:0.26499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <circle
+       style="opacity:1;fill:#000000;fill-opacity:0.39215686;stroke:#000000;stroke-width:0.26499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="circle6023"
+       cx="698.5"
+       cy="-335.8862"
+       r="11.43" />
+    <circle
+       r="11.43"
+       cy="-352.81961"
+       cx="673.09998"
+       id="circle6025"
+       style="opacity:1;fill:#000000;fill-opacity:0.39215686;stroke:#000000;stroke-width:0.26499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <circle
+       r="11.43"
+       cy="-369.75302"
+       cx="647.70001"
+       id="circle6027"
+       style="opacity:1;fill:#000000;fill-opacity:0.39215686;stroke:#000000;stroke-width:0.26499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <circle
+       style="opacity:1;fill:#000000;fill-opacity:0.39215686;stroke:#000000;stroke-width:0.26499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="circle6029"
+       cx="622.30005"
+       cy="-386.68643"
+       r="11.43" />
+    <circle
+       style="opacity:1;fill:#000000;fill-opacity:0.39215686;stroke:#000000;stroke-width:0.26499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="circle6031"
+       cx="596.90002"
+       cy="-403.61987"
+       r="11.43" />
+    <circle
+       r="11.43"
+       cy="-420.55328"
+       cx="571.50006"
+       id="circle6033"
+       style="opacity:1;fill:#000000;fill-opacity:0.39215686;stroke:#000000;stroke-width:0.26499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <circle
+       style="opacity:1;fill:#000000;fill-opacity:0.39215686;stroke:#000000;stroke-width:0.26499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="circle6035"
+       cx="546.10004"
+       cy="-437.48669"
+       r="11.43" />
+    <circle
+       style="opacity:1;fill:#000000;fill-opacity:0.39215686;stroke:#000000;stroke-width:0.26499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="circle6037"
+       cx="520.70007"
+       cy="-454.4201"
+       r="11.43" />
+    <circle
+       r="11.43"
+       cy="-471.35355"
+       cx="495.30014"
+       id="circle6039"
+       style="opacity:1;fill:#000000;fill-opacity:0.39215686;stroke:#000000;stroke-width:0.26499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <circle
+       r="11.43"
+       cy="-488.28696"
+       cx="469.90005"
+       id="circle6041"
+       style="opacity:1;fill:#000000;fill-opacity:0.39215686;stroke:#000000;stroke-width:0.26499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <circle
+       style="opacity:1;fill:#000000;fill-opacity:0.39215686;stroke:#000000;stroke-width:0.26499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="circle6043"
+       cx="444.50006"
+       cy="-505.22034"
+       r="11.43" />
+    <circle
+       style="opacity:1;fill:#000000;fill-opacity:0.39215686;stroke:#000000;stroke-width:0.26499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="circle6045"
+       cx="317.50003"
+       cy="-488.28696"
+       r="11.43" />
+    <circle
+       r="11.43"
+       cy="-505.22034"
+       cx="292.10007"
+       id="circle6047"
+       style="opacity:1;fill:#000000;fill-opacity:0.39215686;stroke:#000000;stroke-width:0.26499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <circle
+       style="opacity:1;fill:#000000;fill-opacity:0.39215686;stroke:#000000;stroke-width:0.26499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="circle6049"
+       cx="266.70004"
+       cy="-522.15381"
+       r="11.43" />
+    <circle
+       style="opacity:1;fill:#000000;fill-opacity:0.39215686;stroke:#000000;stroke-width:0.26499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="circle6051"
+       cx="241.30009"
+       cy="-539.08722"
+       r="11.43" />
+    <circle
+       r="11.43"
+       cy="-556.02063"
+       cx="215.90013"
+       id="circle6053"
+       style="opacity:1;fill:#000000;fill-opacity:0.39215686;stroke:#000000;stroke-width:0.26499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <circle
+       r="11.43"
+       cy="-572.95404"
+       cx="190.50011"
+       id="circle6055"
+       style="opacity:1;fill:#000000;fill-opacity:0.39215686;stroke:#000000;stroke-width:0.26499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <circle
+       style="opacity:1;fill:#000000;fill-opacity:0.39215686;stroke:#000000;stroke-width:0.26499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="circle6057"
+       cx="165.1001"
+       cy="-589.88745"
+       r="11.43" />
+    <circle
+       style="opacity:1;fill:#000000;fill-opacity:0.39215686;stroke:#000000;stroke-width:0.26499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="circle6059"
+       cx="139.70007"
+       cy="-606.82086"
+       r="11.43" />
+    <circle
+       transform="scale(-1,1)"
+       r="11.43"
+       cy="-623.75433"
+       cx="-114.30006"
+       id="circle6061"
+       style="opacity:1;fill:#000000;fill-opacity:0.39215686;stroke:#000000;stroke-width:0.26499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <circle
+       transform="scale(-1,1)"
+       style="opacity:1;fill:#000000;fill-opacity:0.39215686;stroke:#000000;stroke-width:0.26499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="circle6063"
+       cx="-139.70004"
+       cy="-640.68774"
+       r="11.43" />
+    <circle
+       transform="scale(-1,1)"
+       r="11.43"
+       cy="-657.62115"
+       cx="-165.10007"
+       id="circle6065"
+       style="opacity:1;fill:#000000;fill-opacity:0.39215686;stroke:#000000;stroke-width:0.26499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <circle
+       transform="scale(-1,1)"
+       r="11.43"
+       cy="-674.55457"
+       cx="-190.50003"
+       id="circle6067"
+       style="opacity:1;fill:#000000;fill-opacity:0.39215686;stroke:#000000;stroke-width:0.26499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <circle
+       transform="scale(-1,1)"
+       style="opacity:1;fill:#000000;fill-opacity:0.39215686;stroke:#000000;stroke-width:0.26499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="circle6069"
+       cx="-215.89999"
+       cy="-691.48798"
+       r="11.43" />
+    <circle
+       transform="scale(-1,1)"
+       r="11.43"
+       cy="-708.42145"
+       cx="-241.30002"
+       id="circle6071"
+       style="opacity:1;fill:#000000;fill-opacity:0.39215686;stroke:#000000;stroke-width:0.26499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <circle
+       style="opacity:1;fill:#000000;fill-opacity:0.39215686;stroke:#000000;stroke-width:0.26499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="circle6073"
+       cx="-266.70001"
+       cy="-725.35486"
+       r="11.43"
+       transform="scale(-1,1)" />
+    <circle
+       style="opacity:1;fill:#000000;fill-opacity:0.39215686;stroke:#000000;stroke-width:0.26499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="circle6075"
+       cx="-292.10007"
+       cy="-742.28821"
+       r="11.43"
+       transform="scale(-1,1)" />
+    <circle
+       r="11.43"
+       cy="-759.22162"
+       cx="-317.50003"
+       id="circle6077"
+       style="opacity:1;fill:#000000;fill-opacity:0.39215686;stroke:#000000;stroke-width:0.26499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       transform="scale(-1,1)" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.57480001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:3.1496, 1.5748;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#marker9301);marker-mid:url(#marker13701);marker-end:url(#marker9999)"
+       d="m 710.14169,54.640709 c 61.30656,-97.886174 48.44112,-176.125189 0,-240.242849"
+       id="path6133"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:12.69999981px;line-height:607.54998779;font-family:'Frank Ruehl CLM';-inkscape-font-specification:'Frank Ruehl CLM Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="795.53821"
+       y="141.91638"
+       id="text8169"><tspan
+         sodipodi:role="line"
+         id="tspan8167"
+         x="795.53821"
+         y="141.91638"
+         style="font-size:12.69999981px;stroke-width:0.26458332">א׳</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:25.39999962px;line-height:607.54998779;font-family:'Frank Ruehl CLM';-inkscape-font-specification:'Frank Ruehl CLM Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="770.48749"
+       y="125.04138"
+       id="text8173"><tspan
+         sodipodi:role="line"
+         id="tspan8171"
+         x="770.48749"
+         y="125.04138"
+         style="font-size:12.69999981px;stroke-width:0.26458332">ב׳</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:12.69999981px;line-height:607.54998779;font-family:'Frank Ruehl CLM';-inkscape-font-specification:'Frank Ruehl CLM Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="745.64844"
+       y="108.0868"
+       id="text8177"><tspan
+         sodipodi:role="line"
+         id="tspan8175"
+         x="745.64844"
+         y="108.0868"
+         style="stroke-width:0.26458332">ג׳</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:12.69999981px;line-height:607.54998779;font-family:'Frank Ruehl CLM';-inkscape-font-specification:'Frank Ruehl CLM Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="719.66101"
+       y="91.160141"
+       id="text8181"><tspan
+         sodipodi:role="line"
+         id="tspan8179"
+         x="719.66101"
+         y="91.160141"
+         style="stroke-width:0.26458332">ד׳</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:12.69999981px;line-height:607.54998779;font-family:'Frank Ruehl CLM';-inkscape-font-specification:'Frank Ruehl CLM Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="694.12872"
+       y="74.226738"
+       id="text8185"><tspan
+         sodipodi:role="line"
+         id="tspan8183"
+         x="694.12872"
+         y="74.226738"
+         style="stroke-width:0.26458332">ה׳</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:12.69999981px;line-height:607.54998779;font-family:'Frank Ruehl CLM';-inkscape-font-specification:'Frank Ruehl CLM Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="669.97491"
+       y="57.275963"
+       id="text8189"><tspan
+         sodipodi:role="line"
+         id="tspan8187"
+         x="669.97491"
+         y="57.275963"
+         style="stroke-width:0.26458332">ו׳</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:12.69999981px;line-height:607.54998779;font-family:'Frank Ruehl CLM';-inkscape-font-specification:'Frank Ruehl CLM Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="644.51184"
+       y="40.359898"
+       id="text8193"><tspan
+         sodipodi:role="line"
+         id="tspan8191"
+         x="644.51184"
+         y="40.359898"
+         style="stroke-width:0.26458332">ז׳</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:12.69999981px;line-height:607.54998779;font-family:'Frank Ruehl CLM';-inkscape-font-specification:'Frank Ruehl CLM Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="617.81769"
+       y="23.426495"
+       id="text8197"><tspan
+         sodipodi:role="line"
+         id="tspan8195"
+         x="617.81769"
+         y="23.426495"
+         style="stroke-width:0.26458332">ח׳</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:12.69999981px;line-height:607.54998779;font-family:'Frank Ruehl CLM';-inkscape-font-specification:'Frank Ruehl CLM Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="592.37994"
+       y="6.5074592"
+       id="text8201"><tspan
+         sodipodi:role="line"
+         id="tspan8199"
+         x="592.37994"
+         y="6.5074592"
+         style="stroke-width:0.26458332">ט׳</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:12.69999981px;line-height:607.54998779;font-family:'Frank Ruehl CLM';-inkscape-font-specification:'Frank Ruehl CLM Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="568.9248"
+       y="-10.879134"
+       id="text8205"><tspan
+         sodipodi:role="line"
+         id="tspan8203"
+         x="568.9248"
+         y="-10.879134"
+         style="stroke-width:0.26458332">י׳</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:12.69999981px;line-height:607.54998779;font-family:'Frank Ruehl CLM';-inkscape-font-specification:'Frank Ruehl CLM Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="520.70001"
+       y="-98.818359"
+       id="text8209"><tspan
+         sodipodi:role="line"
+         id="tspan8207"
+         x="520.70001"
+         y="3762.9341"
+         style="stroke-width:0.26458332" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:12.69999981px;line-height:607.54998779;font-family:'Frank Ruehl CLM';-inkscape-font-specification:'Frank Ruehl CLM Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="538.75586"
+       y="-27.417778"
+       id="text8217"><tspan
+         sodipodi:role="line"
+         id="tspan8215"
+         x="538.75586"
+         y="-27.417778"
+         style="stroke-width:0.26458332">י״א</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:12.69999981px;line-height:607.54998779;font-family:'Frank Ruehl CLM';-inkscape-font-specification:'Frank Ruehl CLM Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="514.04614"
+       y="-44.292778"
+       id="text8221"><tspan
+         sodipodi:role="line"
+         id="tspan8219"
+         x="514.04614"
+         y="-44.292778"
+         style="stroke-width:0.26458332">י״ב</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:12.69999981px;line-height:607.54998779;font-family:'Frank Ruehl CLM';-inkscape-font-specification:'Frank Ruehl CLM Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="489.06815"
+       y="-61.247379"
+       id="text8225"><tspan
+         sodipodi:role="line"
+         id="tspan8223"
+         x="489.06815"
+         y="-61.247379"
+         style="stroke-width:0.26458332">י״ג</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:12.69999981px;line-height:607.54998779;font-family:'Frank Ruehl CLM';-inkscape-font-specification:'Frank Ruehl CLM Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="513.95599"
+       y="-78.174034"
+       id="text8229"><tspan
+         sodipodi:role="line"
+         id="tspan8227"
+         x="513.95599"
+         y="-78.174034"
+         style="stroke-width:0.26458332">י״ד</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:12.69999981px;line-height:607.54998779;font-family:'Frank Ruehl CLM';-inkscape-font-specification:'Frank Ruehl CLM Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="538.85291"
+       y="-95.124802"
+       id="text8233"><tspan
+         sodipodi:role="line"
+         id="tspan8231"
+         x="538.85291"
+         y="-95.124802"
+         style="stroke-width:0.26458332">ט״ו</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:12.69999981px;line-height:607.54998779;font-family:'Frank Ruehl CLM';-inkscape-font-specification:'Frank Ruehl CLM Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="564.23175"
+       y="-112.04088"
+       id="text8237"><tspan
+         sodipodi:role="line"
+         id="tspan8235"
+         x="564.23175"
+         y="-112.04088"
+         style="stroke-width:0.26458332">ט״ז</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:12.69999981px;line-height:607.54998779;font-family:'Frank Ruehl CLM';-inkscape-font-specification:'Frank Ruehl CLM Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="591.0423"
+       y="-128.97429"
+       id="text8241"><tspan
+         sodipodi:role="line"
+         id="tspan8239"
+         x="591.0423"
+         y="-128.97429"
+         style="stroke-width:0.26458332">י״ז</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:12.69999981px;line-height:607.54998779;font-family:'Frank Ruehl CLM';-inkscape-font-specification:'Frank Ruehl CLM Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="615.11871"
+       y="-145.90775"
+       id="text8245"><tspan
+         sodipodi:role="line"
+         id="tspan8243"
+         x="615.11871"
+         y="-145.90775"
+         style="stroke-width:0.26458332">י״ח</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:12.69999981px;line-height:607.54998779;font-family:'Frank Ruehl CLM';-inkscape-font-specification:'Frank Ruehl CLM Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="640.5332"
+       y="-162.82675"
+       id="text8249"><tspan
+         sodipodi:role="line"
+         id="tspan8247"
+         x="640.5332"
+         y="-162.82675"
+         style="stroke-width:0.26458332">י״ט</tspan></text>
+    <text
+       id="text8253"
+       y="-78.174034"
+       x="463.15619"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:12.69999981px;line-height:607.54998779;font-family:'Frank Ruehl CLM';-inkscape-font-specification:'Frank Ruehl CLM Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="stroke-width:0.26458332"
+         y="-78.174034"
+         x="463.15619"
+         id="tspan8251"
+         sodipodi:role="line">י״ד</tspan></text>
+    <text
+       id="text8257"
+       y="-95.124802"
+       x="437.25308"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:12.69999981px;line-height:607.54998779;font-family:'Frank Ruehl CLM';-inkscape-font-specification:'Frank Ruehl CLM Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="stroke-width:0.26458332"
+         y="-95.124802"
+         x="437.25308"
+         id="tspan8255"
+         sodipodi:role="line">ט״ו</tspan></text>
+    <text
+       id="text8261"
+       y="-112.04088"
+       x="411.83194"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:12.69999981px;line-height:607.54998779;font-family:'Frank Ruehl CLM';-inkscape-font-specification:'Frank Ruehl CLM Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="stroke-width:0.26458332"
+         y="-112.04088"
+         x="411.83194"
+         id="tspan8259"
+         sodipodi:role="line">ט״ז</tspan></text>
+    <text
+       id="text8265"
+       y="-128.97427"
+       x="387.84259"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:12.69999981px;line-height:607.54998779;font-family:'Frank Ruehl CLM';-inkscape-font-specification:'Frank Ruehl CLM Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="stroke-width:0.26458332"
+         y="-128.97427"
+         x="387.84259"
+         id="tspan8263"
+         sodipodi:role="line">י״ז</tspan></text>
+    <text
+       id="text8269"
+       y="-145.90773"
+       x="361.11899"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:12.69999981px;line-height:607.54998779;font-family:'Frank Ruehl CLM';-inkscape-font-specification:'Frank Ruehl CLM Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="stroke-width:0.26458332"
+         y="-145.90773"
+         x="361.11899"
+         id="tspan8267"
+         sodipodi:role="line">י״ח</tspan></text>
+    <text
+       id="text8273"
+       y="-162.82674"
+       x="335.73328"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:12.69999981px;line-height:607.54998779;font-family:'Frank Ruehl CLM';-inkscape-font-specification:'Frank Ruehl CLM Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="stroke-width:0.26458332"
+         y="-162.82674"
+         x="335.73328"
+         id="tspan8271"
+         sodipodi:role="line">י״ט</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:12.69999981px;line-height:607.54998779;font-family:'Frank Ruehl CLM';-inkscape-font-specification:'Frank Ruehl CLM Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="313.28769"
+       y="-179.76015"
+       id="text8277"><tspan
+         sodipodi:role="line"
+         id="tspan8275"
+         x="313.28769"
+         y="-179.76015"
+         style="stroke-width:0.26458332">כ׳</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:12.69999981px;line-height:607.54998779;font-family:'Frank Ruehl CLM';-inkscape-font-specification:'Frank Ruehl CLM Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="283.65295"
+       y="-196.75201"
+       id="text8281"><tspan
+         sodipodi:role="line"
+         id="tspan8279"
+         x="283.65295"
+         y="-196.75201"
+         style="stroke-width:0.26458332">כ״א</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:12.69999981px;line-height:607.54998779;font-family:'Frank Ruehl CLM';-inkscape-font-specification:'Frank Ruehl CLM Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="258.94324"
+       y="-213.62698"
+       id="text8285"><tspan
+         sodipodi:role="line"
+         id="tspan8283"
+         x="258.94324"
+         y="-213.62698"
+         style="stroke-width:0.26458332">כ״ב</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:12.69999981px;line-height:607.54998779;font-family:'Frank Ruehl CLM';-inkscape-font-specification:'Frank Ruehl CLM Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="233.96512"
+       y="-230.58157"
+       id="text8289"><tspan
+         sodipodi:role="line"
+         id="tspan8287"
+         x="233.96512"
+         y="-230.58157"
+         style="stroke-width:0.26458332">כ״ג</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:12.69999981px;line-height:607.54998779;font-family:'Frank Ruehl CLM';-inkscape-font-specification:'Frank Ruehl CLM Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="208.0531"
+       y="-247.50822"
+       id="text8293"><tspan
+         sodipodi:role="line"
+         id="tspan8291"
+         x="208.0531"
+         y="-247.50822"
+         style="stroke-width:0.26458332">כ״ד</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:12.69999981px;line-height:607.54998779;font-family:'Frank Ruehl CLM';-inkscape-font-specification:'Frank Ruehl CLM Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="182.26039"
+       y="-264.44159"
+       id="text8297"><tspan
+         sodipodi:role="line"
+         id="tspan8295"
+         x="182.26039"
+         y="-264.44159"
+         style="stroke-width:0.26458332">כ״ה</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:12.69999981px;line-height:607.54998779;font-family:'Frank Ruehl CLM';-inkscape-font-specification:'Frank Ruehl CLM Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="158.16069"
+       y="-281.39236"
+       id="text8301"><tspan
+         sodipodi:role="line"
+         id="tspan8299"
+         x="158.16069"
+         y="-281.39236"
+         style="stroke-width:0.26458332">כ״ו</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:12.69999981px;line-height:607.54998779;font-family:'Frank Ruehl CLM';-inkscape-font-specification:'Frank Ruehl CLM Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="132.7395"
+       y="-298.30844"
+       id="text8305"><tspan
+         sodipodi:role="line"
+         id="tspan8303"
+         x="132.7395"
+         y="-298.30844"
+         style="stroke-width:0.26458332">כ״ז</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:12.69999981px;line-height:607.54998779;font-family:'Frank Ruehl CLM';-inkscape-font-specification:'Frank Ruehl CLM Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="106.01585"
+       y="-315.24185"
+       id="text8309"><tspan
+         sodipodi:role="line"
+         id="tspan8307"
+         x="106.01585"
+         y="-315.24185"
+         style="stroke-width:0.26458332">כ״ח</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:12.69999981px;line-height:607.54998779;font-family:'Frank Ruehl CLM';-inkscape-font-specification:'Frank Ruehl CLM Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="131.43027"
+       y="-332.16086"
+       id="text8313"><tspan
+         sodipodi:role="line"
+         id="tspan8311"
+         x="131.43027"
+         y="-332.16086"
+         style="stroke-width:0.26458332">כ״ט</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:12.69999981px;line-height:607.54998779;font-family:'Frank Ruehl CLM';-inkscape-font-specification:'Frank Ruehl CLM Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="160.84912"
+       y="-347.97275"
+       id="text8317"><tspan
+         sodipodi:role="line"
+         id="tspan8315"
+         x="160.84912"
+         y="-347.97275"
+         style="stroke-width:0.26458332">ל׳</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:12.69999981px;line-height:607.54998779;font-family:'Frank Ruehl CLM';-inkscape-font-specification:'Frank Ruehl CLM Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="182.01443"
+       y="-364.94315"
+       id="text8321"><tspan
+         sodipodi:role="line"
+         id="tspan8319"
+         x="182.01443"
+         y="-364.94315"
+         style="stroke-width:0.26458332">ל״א</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:12.69999981px;line-height:607.54998779;font-family:'Frank Ruehl CLM';-inkscape-font-specification:'Frank Ruehl CLM Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="208.10471"
+       y="-381.8396"
+       id="text8325"><tspan
+         sodipodi:role="line"
+         id="tspan8323"
+         x="208.10471"
+         y="-381.8396"
+         style="stroke-width:0.26458332">ל״ב</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:12.69999981px;line-height:607.54998779;font-family:'Frank Ruehl CLM';-inkscape-font-specification:'Frank Ruehl CLM Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="233.92657"
+       y="-398.77301"
+       id="text8329"><tspan
+         sodipodi:role="line"
+         id="tspan8327"
+         x="233.92657"
+         y="-398.77301"
+         style="stroke-width:0.26458332">ל״ג</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:12.69999981px;line-height:607.54998779;font-family:'Frank Ruehl CLM';-inkscape-font-specification:'Frank Ruehl CLM Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="258.81454"
+       y="-415.70642"
+       id="text8333"><tspan
+         sodipodi:role="line"
+         id="tspan8331"
+         x="258.81454"
+         y="-415.70642"
+         style="stroke-width:0.26458332">ל״ד</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:12.69999981px;line-height:607.54998779;font-family:'Frank Ruehl CLM';-inkscape-font-specification:'Frank Ruehl CLM Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="283.82175"
+       y="-432.63983"
+       id="text8337"><tspan
+         sodipodi:role="line"
+         id="tspan8335"
+         x="283.82175"
+         y="-432.63983"
+         style="stroke-width:0.26458332">ל״ה</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:12.69999981px;line-height:607.54998779;font-family:'Frank Ruehl CLM';-inkscape-font-specification:'Frank Ruehl CLM Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="310.52203"
+       y="-449.58359"
+       id="text8341"><tspan
+         sodipodi:role="line"
+         id="tspan8339"
+         x="310.52203"
+         y="-449.58359"
+         style="stroke-width:0.26458332">ל״ו</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:12.69999981px;line-height:607.54998779;font-family:'Frank Ruehl CLM';-inkscape-font-specification:'Frank Ruehl CLM Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="335.90091"
+       y="-466.50674"
+       id="text8345"><tspan
+         sodipodi:role="line"
+         id="tspan8343"
+         x="335.90091"
+         y="-466.50674"
+         style="stroke-width:0.26458332">ל״ז</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:12.69999981px;line-height:607.54998779;font-family:'Frank Ruehl CLM';-inkscape-font-specification:'Frank Ruehl CLM Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="309.17722"
+       y="-483.44009"
+       id="text8349"><tspan
+         sodipodi:role="line"
+         id="tspan8347"
+         x="309.17722"
+         y="-483.44009"
+         style="stroke-width:0.26458332">ל״ח</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:12.69999981px;line-height:607.54998779;font-family:'Frank Ruehl CLM';-inkscape-font-specification:'Frank Ruehl CLM Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="283.79163"
+       y="-500.37347"
+       id="text8353"><tspan
+         sodipodi:role="line"
+         id="tspan8351"
+         x="283.79163"
+         y="-500.37347"
+         style="stroke-width:0.26458332">ל״ט</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:12.69999981px;line-height:607.54998779;font-family:'Frank Ruehl CLM';-inkscape-font-specification:'Frank Ruehl CLM Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="262.14886"
+       y="-518.46448"
+       id="text8357"><tspan
+         sodipodi:role="line"
+         id="tspan8355"
+         x="262.14886"
+         y="-518.46448"
+         style="stroke-width:0.26458332">מ׳</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:12.69999981px;line-height:607.54998779;font-family:'Frank Ruehl CLM';-inkscape-font-specification:'Frank Ruehl CLM Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="232.51422"
+       y="-535.42029"
+       id="text8361"><tspan
+         sodipodi:role="line"
+         id="tspan8359"
+         x="232.51422"
+         y="-535.42029"
+         style="stroke-width:0.26458332">מ״א</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:12.69999981px;line-height:607.54998779;font-family:'Frank Ruehl CLM';-inkscape-font-specification:'Frank Ruehl CLM Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="207.80457"
+       y="-552.3313"
+       id="text8365"><tspan
+         sodipodi:role="line"
+         id="tspan8363"
+         x="207.80457"
+         y="-552.3313"
+         style="stroke-width:0.26458332">מ״ב</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:12.69999981px;line-height:607.54998779;font-family:'Frank Ruehl CLM';-inkscape-font-specification:'Frank Ruehl CLM Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="182.82639"
+       y="-569.26471"
+       id="text8369"><tspan
+         sodipodi:role="line"
+         id="tspan8367"
+         x="182.82639"
+         y="-569.26471"
+         style="stroke-width:0.26458332">מ״ג</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:12.69999981px;line-height:607.54998779;font-family:'Frank Ruehl CLM';-inkscape-font-specification:'Frank Ruehl CLM Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="156.91438"
+       y="-586.19812"
+       id="text8373"><tspan
+         sodipodi:role="line"
+         id="tspan8371"
+         x="156.91438"
+         y="-586.19812"
+         style="stroke-width:0.26458332">מ״ד</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:12.69999981px;line-height:607.54998779;font-family:'Frank Ruehl CLM';-inkscape-font-specification:'Frank Ruehl CLM Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="131.12163"
+       y="-603.13153"
+       id="text8377"><tspan
+         sodipodi:role="line"
+         id="tspan8375"
+         x="131.12163"
+         y="-603.13153"
+         style="stroke-width:0.26458332">מ״ה</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:12.69999981px;line-height:607.54998779;font-family:'Frank Ruehl CLM';-inkscape-font-specification:'Frank Ruehl CLM Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="107.02187"
+       y="-620.065"
+       id="text8381"><tspan
+         sodipodi:role="line"
+         id="tspan8379"
+         x="107.02187"
+         y="-620.065"
+         style="stroke-width:0.26458332">מ״ו</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:12.69999981px;line-height:607.54998779;font-family:'Frank Ruehl CLM';-inkscape-font-specification:'Frank Ruehl CLM Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="132.40068"
+       y="-636.99841"
+       id="text8385"><tspan
+         sodipodi:role="line"
+         id="tspan8383"
+         x="132.40068"
+         y="-636.99841"
+         style="stroke-width:0.26458332">מ״ז</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:12.69999981px;line-height:607.54998779;font-family:'Frank Ruehl CLM';-inkscape-font-specification:'Frank Ruehl CLM Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="156.47713"
+       y="-653.93182"
+       id="text8389"><tspan
+         sodipodi:role="line"
+         id="tspan8387"
+         x="156.47713"
+         y="-653.93182"
+         style="stroke-width:0.26458332">מ״ח</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:12.69999981px;line-height:607.54998779;font-family:'Frank Ruehl CLM';-inkscape-font-specification:'Frank Ruehl CLM Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="181.89148"
+       y="-670.86523"
+       id="text8393"><tspan
+         sodipodi:role="line"
+         id="tspan8391"
+         x="181.89148"
+         y="-670.86523"
+         style="stroke-width:0.26458332">מ״ט</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:12.69999981px;line-height:607.54998779;font-family:'Frank Ruehl CLM';-inkscape-font-specification:'Frank Ruehl CLM Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="212.52441"
+       y="-687.76263"
+       id="text8397"><tspan
+         sodipodi:role="line"
+         id="tspan8395"
+         x="212.52441"
+         y="-687.76263"
+         style="stroke-width:0.26458332">נ׳</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:12.69999981px;line-height:607.54998779;font-family:'Frank Ruehl CLM';-inkscape-font-specification:'Frank Ruehl CLM Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="233.68973"
+       y="-704.75452"
+       id="text8401"><tspan
+         sodipodi:role="line"
+         id="tspan8399"
+         x="233.68973"
+         y="-704.75452"
+         style="stroke-width:0.26458332">נ״א</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:12.69999981px;line-height:607.54998779;font-family:'Frank Ruehl CLM';-inkscape-font-specification:'Frank Ruehl CLM Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="259.78003"
+       y="-721.62952"
+       id="text8405"><tspan
+         sodipodi:role="line"
+         id="tspan8403"
+         x="259.78003"
+         y="-721.62952"
+         style="stroke-width:0.26458332">נ״ב</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:12.69999981px;line-height:607.54998779;font-family:'Frank Ruehl CLM';-inkscape-font-specification:'Frank Ruehl CLM Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="285.60193"
+       y="-738.58405"
+       id="text8409"><tspan
+         sodipodi:role="line"
+         id="tspan8407"
+         x="285.60193"
+         y="-738.58405"
+         style="stroke-width:0.26458332">נ״ג</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:12.69999981px;line-height:607.54998779;font-family:'Frank Ruehl CLM';-inkscape-font-specification:'Frank Ruehl CLM Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="310.4899"
+       y="-755.51068"
+       id="text8413"><tspan
+         sodipodi:role="line"
+         id="tspan8411"
+         x="310.4899"
+         y="-755.51068"
+         style="stroke-width:0.26458332">נ״ד</tspan></text>
+    <text
+       id="text8417"
+       y="-179.76015"
+       x="668.88745"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:12.69999981px;line-height:607.54998779;font-family:'Frank Ruehl CLM';-inkscape-font-specification:'Frank Ruehl CLM Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="stroke-width:0.26458332"
+         y="-179.76015"
+         x="668.88745"
+         id="tspan8415"
+         sodipodi:role="line">כ׳</tspan></text>
+    <text
+       id="text8421"
+       y="-196.75203"
+       x="690.05286"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:12.69999981px;line-height:607.54998779;font-family:'Frank Ruehl CLM';-inkscape-font-specification:'Frank Ruehl CLM Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="stroke-width:0.26458332"
+         y="-196.75203"
+         x="690.05286"
+         id="tspan8419"
+         sodipodi:role="line">כ״א</tspan></text>
+    <text
+       id="text8425"
+       y="-213.49124"
+       x="716.14319"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:12.69999981px;line-height:607.54998779;font-family:'Frank Ruehl CLM';-inkscape-font-specification:'Frank Ruehl CLM Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="stroke-width:0.26458332"
+         y="-213.49124"
+         x="716.14319"
+         id="tspan8423"
+         sodipodi:role="line">כ״ב</tspan></text>
+    <text
+       id="text8429"
+       y="-230.58157"
+       x="741.96497"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:12.69999981px;line-height:607.54998779;font-family:'Frank Ruehl CLM';-inkscape-font-specification:'Frank Ruehl CLM Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="stroke-width:0.26458332"
+         y="-230.58157"
+         x="741.96497"
+         id="tspan8427"
+         sodipodi:role="line">כ״ג</tspan></text>
+    <text
+       id="text8433"
+       y="-247.50822"
+       x="766.85303"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:12.69999981px;line-height:607.54998779;font-family:'Frank Ruehl CLM';-inkscape-font-specification:'Frank Ruehl CLM Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="stroke-width:0.26458332"
+         y="-247.50822"
+         x="766.85303"
+         id="tspan8431"
+         sodipodi:role="line">כ״ד</tspan></text>
+    <text
+       id="text8437"
+       y="-264.44159"
+       x="791.86023"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:12.69999981px;line-height:607.54998779;font-family:'Frank Ruehl CLM';-inkscape-font-specification:'Frank Ruehl CLM Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="stroke-width:0.26458332"
+         y="-264.44159"
+         x="791.86023"
+         id="tspan8435"
+         sodipodi:role="line">כ״ה</tspan></text>
+    <text
+       id="text8441"
+       y="-281.39236"
+       x="767.7605"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:12.69999981px;line-height:607.54998779;font-family:'Frank Ruehl CLM';-inkscape-font-specification:'Frank Ruehl CLM Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="stroke-width:0.26458332"
+         y="-281.39236"
+         x="767.7605"
+         id="tspan8439"
+         sodipodi:role="line">כ״ו</tspan></text>
+    <text
+       id="text8445"
+       y="-298.30841"
+       x="742.33929"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:12.69999981px;line-height:607.54998779;font-family:'Frank Ruehl CLM';-inkscape-font-specification:'Frank Ruehl CLM Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="stroke-width:0.26458332"
+         y="-298.30841"
+         x="742.33929"
+         id="tspan8443"
+         sodipodi:role="line">כ״ז</tspan></text>
+    <text
+       id="text8449"
+       y="-315.24185"
+       x="715.61572"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:12.69999981px;line-height:607.54998779;font-family:'Frank Ruehl CLM';-inkscape-font-specification:'Frank Ruehl CLM Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="stroke-width:0.26458332"
+         y="-315.24185"
+         x="715.61572"
+         id="tspan8447"
+         sodipodi:role="line">כ״ח</tspan></text>
+    <text
+       id="text8493"
+       y="-332.16086"
+       x="690.2301"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:12.69999981px;line-height:607.54998779;font-family:'Frank Ruehl CLM';-inkscape-font-specification:'Frank Ruehl CLM Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="stroke-width:0.26458332"
+         y="-332.16086"
+         x="690.2301"
+         id="tspan8491"
+         sodipodi:role="line">כ״ט</tspan></text>
+    <text
+       id="text8497"
+       y="-347.97275"
+       x="668.84894"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:12.69999981px;line-height:607.54998779;font-family:'Frank Ruehl CLM';-inkscape-font-specification:'Frank Ruehl CLM Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="stroke-width:0.26458332"
+         y="-347.97275"
+         x="668.84894"
+         id="tspan8495"
+         sodipodi:role="line">ל׳</tspan></text>
+    <text
+       id="text8501"
+       y="-364.94312"
+       x="639.21423"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:12.69999981px;line-height:607.54998779;font-family:'Frank Ruehl CLM';-inkscape-font-specification:'Frank Ruehl CLM Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="stroke-width:0.26458332"
+         y="-364.94312"
+         x="639.21423"
+         id="tspan8499"
+         sodipodi:role="line">ל״א</tspan></text>
+    <text
+       id="text8505"
+       y="-381.83957"
+       x="614.50458"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:12.69999981px;line-height:607.54998779;font-family:'Frank Ruehl CLM';-inkscape-font-specification:'Frank Ruehl CLM Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="stroke-width:0.26458332"
+         y="-381.83957"
+         x="614.50458"
+         id="tspan8503"
+         sodipodi:role="line">ל״ב</tspan></text>
+    <text
+       id="text8509"
+       y="-398.77301"
+       x="589.52643"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:12.69999981px;line-height:607.54998779;font-family:'Frank Ruehl CLM';-inkscape-font-specification:'Frank Ruehl CLM Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="stroke-width:0.26458332"
+         y="-398.77301"
+         x="589.52643"
+         id="tspan8507"
+         sodipodi:role="line">ל״ג</tspan></text>
+    <text
+       id="text8513"
+       y="-415.70642"
+       x="563.61444"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:12.69999981px;line-height:607.54998779;font-family:'Frank Ruehl CLM';-inkscape-font-specification:'Frank Ruehl CLM Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="stroke-width:0.26458332"
+         y="-415.70642"
+         x="563.61444"
+         id="tspan8511"
+         sodipodi:role="line">ל״ד</tspan></text>
+    <text
+       id="text8517"
+       y="-432.63983"
+       x="537.82172"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:12.69999981px;line-height:607.54998779;font-family:'Frank Ruehl CLM';-inkscape-font-specification:'Frank Ruehl CLM Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="stroke-width:0.26458332"
+         y="-432.63983"
+         x="537.82172"
+         id="tspan8515"
+         sodipodi:role="line">ל״ה</tspan></text>
+    <text
+       id="text8521"
+       y="-449.58353"
+       x="513.72198"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:12.69999981px;line-height:607.54998779;font-family:'Frank Ruehl CLM';-inkscape-font-specification:'Frank Ruehl CLM Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="stroke-width:0.26458332"
+         y="-449.58353"
+         x="513.72198"
+         id="tspan8519"
+         sodipodi:role="line">ל״ו</tspan></text>
+    <text
+       id="text8525"
+       y="-466.50668"
+       x="488.3009"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:12.69999981px;line-height:607.54998779;font-family:'Frank Ruehl CLM';-inkscape-font-specification:'Frank Ruehl CLM Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="stroke-width:0.26458332"
+         y="-466.50668"
+         x="488.3009"
+         id="tspan8523"
+         sodipodi:role="line">ל״ז</tspan></text>
+    <text
+       id="text8541"
+       y="-483.44016"
+       x="359.97729"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:12.69999981px;line-height:607.54998779;font-family:'Frank Ruehl CLM';-inkscape-font-specification:'Frank Ruehl CLM Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="stroke-width:0.26458332"
+         y="-483.44016"
+         x="359.97729"
+         id="tspan8539"
+         sodipodi:role="line">ל״ח</tspan></text>
+    <text
+       id="text8545"
+       y="-500.987"
+       x="385.39169"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:12.69999981px;line-height:607.54998779;font-family:'Frank Ruehl CLM';-inkscape-font-specification:'Frank Ruehl CLM Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="stroke-width:0.26458332"
+         y="-500.987"
+         x="385.39169"
+         id="tspan8543"
+         sodipodi:role="line">ל״ט</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:12.69999981px;line-height:607.54998779;font-family:'Frank Ruehl CLM';-inkscape-font-specification:'Frank Ruehl CLM Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="461.57724"
+       y="-483.44009"
+       id="text8549"><tspan
+         sodipodi:role="line"
+         id="tspan8547"
+         x="461.57724"
+         y="-483.44009"
+         style="stroke-width:0.26458332">ל״ח</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:12.69999981px;line-height:607.54998779;font-family:'Frank Ruehl CLM';-inkscape-font-specification:'Frank Ruehl CLM Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="436.19162"
+       y="-500.37347"
+       id="text8553"><tspan
+         sodipodi:role="line"
+         id="tspan8551"
+         x="436.19162"
+         y="-500.37347"
+         style="stroke-width:0.26458332">ל״ט</tspan></text>
+    <text
+       id="text8557"
+       y="-518.46448"
+       x="414.54898"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:12.69999981px;line-height:607.54998779;font-family:'Frank Ruehl CLM';-inkscape-font-specification:'Frank Ruehl CLM Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="stroke-width:0.26458332"
+         y="-518.46448"
+         x="414.54898"
+         id="tspan8555"
+         sodipodi:role="line">מ׳</tspan></text>
+    <text
+       id="text8561"
+       y="-535.42029"
+       x="435.71423"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:12.69999981px;line-height:607.54998779;font-family:'Frank Ruehl CLM';-inkscape-font-specification:'Frank Ruehl CLM Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="stroke-width:0.26458332"
+         y="-535.42029"
+         x="435.71423"
+         id="tspan8559"
+         sodipodi:role="line">מ״א</tspan></text>
+    <text
+       id="text8565"
+       y="-552.3313"
+       x="461.8046"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:12.69999981px;line-height:607.54998779;font-family:'Frank Ruehl CLM';-inkscape-font-specification:'Frank Ruehl CLM Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="stroke-width:0.26458332"
+         y="-552.3313"
+         x="461.8046"
+         id="tspan8563"
+         sodipodi:role="line">מ״ב</tspan></text>
+    <text
+       id="text8569"
+       y="-569.26471"
+       x="487.6264"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:12.69999981px;line-height:607.54998779;font-family:'Frank Ruehl CLM';-inkscape-font-specification:'Frank Ruehl CLM Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="stroke-width:0.26458332"
+         y="-569.26471"
+         x="487.6264"
+         id="tspan8567"
+         sodipodi:role="line">מ״ג</tspan></text>
+    <text
+       id="text8573"
+       y="-586.19812"
+       x="512.51416"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:12.69999981px;line-height:607.54998779;font-family:'Frank Ruehl CLM';-inkscape-font-specification:'Frank Ruehl CLM Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="stroke-width:0.26458332"
+         y="-586.19812"
+         x="512.51416"
+         id="tspan8571"
+         sodipodi:role="line">מ״ד</tspan></text>
+    <text
+       id="text8577"
+       y="-603.13159"
+       x="537.52148"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:12.69999981px;line-height:607.54998779;font-family:'Frank Ruehl CLM';-inkscape-font-specification:'Frank Ruehl CLM Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="stroke-width:0.26458332"
+         y="-603.13159"
+         x="537.52148"
+         id="tspan8575"
+         sodipodi:role="line">מ״ה</tspan></text>
+    <text
+       id="text8581"
+       y="-620.065"
+       x="564.2218"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:12.69999981px;line-height:607.54998779;font-family:'Frank Ruehl CLM';-inkscape-font-specification:'Frank Ruehl CLM Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="stroke-width:0.26458332"
+         y="-620.065"
+         x="564.2218"
+         id="tspan8579"
+         sodipodi:role="line">מ״ו</tspan></text>
+    <text
+       id="text8585"
+       y="-636.99841"
+       x="589.60059"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:12.69999981px;line-height:607.54998779;font-family:'Frank Ruehl CLM';-inkscape-font-specification:'Frank Ruehl CLM Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="stroke-width:0.26458332"
+         y="-636.99841"
+         x="589.60059"
+         id="tspan8583"
+         sodipodi:role="line">מ״ז</tspan></text>
+    <text
+       id="text8589"
+       y="-653.93182"
+       x="613.67706"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:12.69999981px;line-height:607.54998779;font-family:'Frank Ruehl CLM';-inkscape-font-specification:'Frank Ruehl CLM Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="stroke-width:0.26458332"
+         y="-653.93182"
+         x="613.67706"
+         id="tspan8587"
+         sodipodi:role="line">מ״ח</tspan></text>
+    <text
+       id="text8593"
+       y="-670.86523"
+       x="639.09149"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:12.69999981px;line-height:607.54998779;font-family:'Frank Ruehl CLM';-inkscape-font-specification:'Frank Ruehl CLM Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="stroke-width:0.26458332"
+         y="-670.86523"
+         x="639.09149"
+         id="tspan8591"
+         sodipodi:role="line">מ״ט</tspan></text>
+    <text
+       id="text8597"
+       y="-687.76263"
+       x="669.72443"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:12.69999981px;line-height:607.54998779;font-family:'Frank Ruehl CLM';-inkscape-font-specification:'Frank Ruehl CLM Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="stroke-width:0.26458332"
+         y="-687.76263"
+         x="669.72443"
+         id="tspan8595"
+         sodipodi:role="line">נ׳</tspan></text>
+    <text
+       id="text8601"
+       y="-704.75446"
+       x="690.88971"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:12.69999981px;line-height:607.54998779;font-family:'Frank Ruehl CLM';-inkscape-font-specification:'Frank Ruehl CLM Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="stroke-width:0.26458332"
+         y="-704.75446"
+         x="690.88971"
+         id="tspan8599"
+         sodipodi:role="line">נ״א</tspan></text>
+    <text
+       id="text8605"
+       y="-721.62946"
+       x="716.97998"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:12.69999981px;line-height:607.54998779;font-family:'Frank Ruehl CLM';-inkscape-font-specification:'Frank Ruehl CLM Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="stroke-width:0.26458332"
+         y="-721.62946"
+         x="716.97998"
+         id="tspan8603"
+         sodipodi:role="line">נ״ב</tspan></text>
+    <text
+       id="text8609"
+       y="-738.58405"
+       x="741.36249"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:12.69999981px;line-height:607.54998779;font-family:'Frank Ruehl CLM';-inkscape-font-specification:'Frank Ruehl CLM Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="stroke-width:0.26458332"
+         y="-738.58405"
+         x="741.36249"
+         id="tspan8607"
+         sodipodi:role="line">נ״ג</tspan></text>
+    <text
+       id="text8613"
+       y="-755.51746"
+       x="767.68982"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:12.69999981px;line-height:607.54998779;font-family:'Frank Ruehl CLM';-inkscape-font-specification:'Frank Ruehl CLM Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="stroke-width:0.26458332"
+         y="-755.51746"
+         x="767.68982"
+         id="tspan8611"
+         sodipodi:role="line">נ״ד</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.57480001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:3.1496, 1.5748;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#marker8971);marker-mid:url(#marker14159);marker-end:url(#marker9411)"
+       d="m 352.42503,-183.48547 c 46.06962,-113.52423 24.73785,-191.57448 -47.625,-240.24283"
+       id="path8633"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.57480001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:3.1496, 1.5748;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#marker9011);marker-mid:url(#marker14397);marker-end:url(#marker9493)"
+       d="m 560.91669,-131.62688 c -42.53439,-84.96939 -49.19215,-171.43111 48.68333,-242.35951"
+       id="path8639"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.57480001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:3.1496, 1.5748;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#marker9057);marker-mid:url(#marker14641);marker-end:url(#marker9581)"
+       d="m 680.50835,-368.69473 c 30.19612,-111.83527 -10.03046,-190.69792 -95.25,-243.41785"
+       id="path8641"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.57480001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:3.1496, 1.5748;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#marker9109);marker-mid:url(#marker14891);marker-end:url(#marker9675)"
+       d="m 124.88336,-349.64465 c -55.155494,-82.73659 -45.672149,-175.55661 3.175,-242.3595"
+       id="path8643"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.57480001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:3.1496, 1.5748;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#marker9231);marker-mid:url(#marker15409);marker-end:url(#marker9881)"
+       d="m 228.60003,-570.8374 c 41.6299,-36.43935 22.21417,-73.63108 -2.11667,-106.89234"
+       id="path8645"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.57480001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:3.1496, 1.5748;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#Arrow1Lstart);marker-mid:url(#marker13927);marker-end:url(#marker9401)"
+       d="M 605.36669,28.182297 C 275.1667,112.84938 215.90003,-234.28571 215.90003,-234.28571"
+       id="path8647"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.57480001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:3.1496, 1.5748;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#marker9167);marker-mid:url(#marker15147);marker-end:url(#marker9775)"
+       d="m 495.30002,-589.88748 c 34.95282,-121.8053 145.33973,-161.96146 189.0253,-127.9838"
+       id="path8649"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <circle
+       style="opacity:1;fill:#000000;fill-opacity:0.39215686;stroke:#000000;stroke-width:0.25400001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path8843"
+       cx="520.70001"
+       cy="-776.15503"
+       r="50.800255" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.57480001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:3.1496, 1.5748;stroke-dashoffset:0;stroke-opacity:1;marker-mid:url(#marker15677);marker-end:url(#marker8859)"
+       d="m 336.55003,-760.28009 133.35,-15.87499"
+       id="path8847"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.57480001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:3.1496, 1.5748;stroke-dashoffset:0;stroke-opacity:1;marker-mid:url(#marker11277);marker-end:url(#marker8881)"
+       d="M 758.82502,-762.39676 571.50003,-776.15508"
+       id="path8849"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <circle
+       style="opacity:1;fill:#000000;fill-opacity:0.39215686;stroke:#000000;stroke-width:0.25400001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path8843-9"
+       cx="749.42725"
+       cy="188.92274"
+       r="50.800255" />
+    <rect
+       style="opacity:1;fill:#000000;fill-opacity:0.39215686;stroke:none;stroke-width:0.25399998;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect19678"
+       width="76.199997"
+       height="127"
+       x="114.3"
+       y="112.85001" />
+    <rect
+       y="112.85001"
+       x="241.3"
+       height="127"
+       width="76.199997"
+       id="rect19682"
+       style="opacity:1;fill:#000000;fill-opacity:0.39215686;stroke:none;stroke-width:0.25399998;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:69.48448944px;line-height:607.54998779;font-family:'Frank Ruehl CLM';-inkscape-font-specification:'Frank Ruehl CLM Medium';letter-spacing:0px;word-spacing:0px;direction:rtl;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.72379673"
+       x="877.16199"
+       y="-853.21124"
+       id="text19686"><tspan
+         sodipodi:role="line"
+         id="tspan19684"
+         x="877.16199"
+         y="-853.21124"
+         style="stroke-width:0.72379673">סולם יעקב</tspan></text>
+  </g>
+</svg>
