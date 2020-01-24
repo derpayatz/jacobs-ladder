@@ -1,6 +1,6 @@
 # Jacob’s Ladder Board Game
 
-(Game copyright by Marc and Inna Trius, cc-by-sa)
+[(Game copyright by Marc and Inna Trius, cc-by-sa)](http://creativecommons.org/licenses/by-sa/4.0/)
 
 ## Board: 
 
@@ -33,6 +33,13 @@ The game path goes from the figure of Jacob sleeping on the ground, to the heave
 
 ## Rules:
 
-Each turn, the player draws a card from the letter pile, says the name of the letter, and casts the die. Then they move the piece the number of places indicated by the die. If they land on an arrow going up, they draw from the vocabulary pile; if they translate the word correctly, they go up the arrow. If they translate incorrectly, they take one step back.
+Each turn, the player draws a card from the letter pile, says the name of the letter, and casts the die. Then they move the piece the number of places indicated by the die. If they land on an arrow, they draw from the vocabulary pile and translate it.
+
+### Table of Outcomes:
+
+|                       | Arrow going up   | Arrow going down    |
+|-----------------------|------------------|---------------------|
+| **Correct answer**    | Go up the arrow  | Go forward one step |
+| **Incorrect answer**  | Go back one step | Go down the arrow   | 
 
 Upon reaching the last place before the sky, the player must draw a vocabulary card each turn. When they answer correctly, they may go up the final arrow to win the game.
